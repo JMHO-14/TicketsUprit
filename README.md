@@ -1,15 +1,4 @@
-# SisoAI - Sistema Inteligente de Salud Laboral
-
-Plataforma integral para la gestión de exámenes médicos ocupacionales.
-
-## 🚀 Características
-
-- Gestión de pacientes y empresas
-- Protocolos de exámenes personalizables
-- Seguimiento de admisiones
-- Resultados clínicos digitales
-- Panel administrativo intuitivo
-- Integración con n8n para automatización
+Sistema De tickets de la UPRIT
 
 ## 🛠️ Requisitos Previos
 
